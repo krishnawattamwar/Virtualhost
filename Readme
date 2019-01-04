@@ -1,0 +1,7 @@
+Give permission to your virtualhost.sh file by using following commad
+chmod +x virtualhost.sh
+
+run file using following command
+./virtualhost.sh
+or 
+sh virtualhost.sh
